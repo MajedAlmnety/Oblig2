@@ -1,6 +1,7 @@
 # Oblig2
 
 Do the following:
+
 1.Pick one use case (defined below).
 2.Explore and research which algorithm would work best for this use case (regression or classification)
 3.Document your findings in a file (3-5 lines) on why you chose this algorithm.
